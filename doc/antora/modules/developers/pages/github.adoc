@@ -169,7 +169,7 @@ If your code merges cleanly, then its a couple of clicks to get it merged into t
 
 ==== Signing commits
 
-The FreeRAIDUS project now requires all contributions to be signed.
+The FreeRADIUS project now requires all contributions to be signed.
 
 Refer to the links below for instructions on how to enable this:
 
